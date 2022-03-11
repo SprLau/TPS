@@ -4,7 +4,7 @@
 
 ### Demo下载
 
-支持[Windows X86_64]()
+支持[Windows X86_64](https://github.com/SprLau/TPS/releases/download/v1.0/TPS_Demo_x86_64.exe)
 
 支持[MacOS]()
 
