@@ -4,8 +4,7 @@
 
 ### Demo下载
 
-支持[Windows X86_64](https://bhpan.buaa.edu.cn:443/link/9725DA4B2CF815DE6DB401C1220F41B0
-Valid Until: 2024-04-01 23:59)
+支持[Windows X86_64](https://bhpan.buaa.edu.cn:443/link/9725DA4B2CF815DE6DB401C1220F41B0)
 
 支持[MacOS](https://bhpan.buaa.edu.cn:443/link/988E3D92560DD8D5C3DD79233CEF4E28)
 
