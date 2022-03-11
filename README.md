@@ -8,7 +8,7 @@
 
 支持[MacOS](https://bhpan.buaa.edu.cn:443/link/988E3D92560DD8D5C3DD79233CEF4E28)
 
-***[关于Demo](### 关于Demo)***
+***[关于Demo](###关于Demo)***
 
 ## 游戏概况
 
